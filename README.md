@@ -11,7 +11,7 @@ You can clone it and step by step create your own NPM package and publish it.
 
 It is simple React counter.
 
-[**Live Demo**](https://mitstandel.github.io/my-counter-app-package/)
+[**Live Demo**](https://mitstandel.github.io/counter-package/)
 
 ## Installation:
 
