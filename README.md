@@ -53,8 +53,8 @@ root.render(
 
 [npm-url]: https://www.npmjs.com/package/my-counter-app-package
 [npm-image]: https://img.shields.io/npm/v/my-counter-app-package
-[github-license]: https://img.shields.io/github/license/mitstandel/my-counter-app-package
-[github-license-url]: https://github.com/mitstandel/my-counter-app-package/blob/master/LICENSE
-[github-build]: https://github.com/mitstandel/my-counter-app-package/actions/workflows/publish.yml/badge.svg
-[github-build-url]: https://github.com/mitstandel/my-counter-app-package/actions/workflows/publish.yml
+[github-license]: https://img.shields.io/github/license/mitstandel/counter-package
+[github-license-url]: https://github.com/mitstandel/counter-package/blob/master/LICENSE
+[github-build]: https://github.com/mitstandel/counter-package/actions/workflows/publish.yml/badge.svg
+[github-build-url]: https://github.com/mitstandel/counter-package/actions/workflows/publish.yml
 [npm-typescript]: https://img.shields.io/npm/types/my-counter-app-package
