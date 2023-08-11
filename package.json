@@ -1,5 +1,5 @@
 {
-  "name": "counter-app",
+  "name": "my-counter-app-package",
   "version": "1.0.1",
   "description": "Counter app package",
   "main": "./dist/cjs/index.js",
